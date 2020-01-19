@@ -1,4 +1,4 @@
-## Aplikasi Keuangangku
+## Aplikasi Keuanganku
 Aplikasi ini hasil modifikasi dari github DompetKu dengan menambahkan fungsi daterangepicker sebagai filter
 
 ## Screenshot
