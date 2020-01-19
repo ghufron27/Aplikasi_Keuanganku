@@ -1,4 +1,5 @@
-Aplikasi ini hasil modifikasi dari github dengan menambahkan fungsi daterangepicker sebagai filter
+## Aplikasi Keuangangku
+Aplikasi ini hasil modifikasi dari github DompetKu dengan menambahkan fungsi daterangepicker sebagai filter
 
 ## Screenshot
 
