@@ -3,7 +3,6 @@ Aplikasi ini hasil modifikasi dari github DompetKu dengan menambahkan fungsi dat
 
 ## Screenshot
 
-![](./ss/a.jpg)
 ![](./ss/b.jpg)
 
 ![](./ss/c.jpg)
